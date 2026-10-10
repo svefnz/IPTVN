@@ -1,0 +1,261 @@
+#EXTM3U
+#EXTINF:-1 tvg-name="CCTV-1FHD" group-title="央视高清",CCTV-1FHD
+http://gd.wsd.gd.cn:1698/udp/239.20.0.96:3016
+#EXTINF:-1 tvg-name="CCTV-1" group-title="央视",CCTV-1
+http://gd.wsd.gd.cn:1698/udp/239.20.0.104:2006
+#EXTINF:-1 tvg-name="CCTV-2" group-title="央视",CCTV-2
+http://gd.wsd.gd.cn:1698/udp/239.20.0.197:2192
+#EXTINF:-1 tvg-name="CCTV-3" group-title="央视",CCTV-3
+http://gd.wsd.gd.cn:1698/udp/239.20.0.28:3292
+#EXTINF:-1 tvg-name="CCTV-4" group-title="央视",CCTV-4
+http://gd.wsd.gd.cn:1698/udp/239.20.0.16:3340
+#EXTINF:-1 tvg-name="CCTV-5" group-title="央视",CCTV-5
+http://gd.wsd.gd.cn:1698/udp/239.20.0.30:3284
+#EXTINF:-1 tvg-name="CCTV-5+" group-title="央视",CCTV-5+
+http://gd.wsd.gd.cn:1698/udp/239.20.0.203:2204
+#EXTINF:-1 tvg-name="CCTV-6" group-title="央视",CCTV-6
+http://gd.wsd.gd.cn:1698/udp/239.20.0.29:3288
+#EXTINF:-1 tvg-name="CCTV-7" group-title="央视",CCTV-7
+http://gd.wsd.gd.cn:1698/udp/239.20.0.198:2194
+#EXTINF:-1 tvg-name="CCTV-8" group-title="央视",CCTV-8
+http://gd.wsd.gd.cn:1698/udp/239.20.0.31:3280
+#EXTINF:-1 tvg-name="CCTV-9" group-title="央视",CCTV-9
+http://gd.wsd.gd.cn:1698/udp/239.20.0.199:2196
+#EXTINF:-1 tvg-name="CCTV-10" group-title="央视",CCTV-10
+http://gd.wsd.gd.cn:1698/udp/239.20.0.200:2198
+#EXTINF:-1 tvg-name="CCTV-11" group-title="央视",CCTV-11
+http://gd.wsd.gd.cn:1698/udp/239.21.0.35:3480
+#EXTINF:-1 tvg-name="CCTV-12" group-title="央视",CCTV-12
+http://gd.wsd.gd.cn:1698/udp/239.20.0.201:2200
+#EXTINF:-1 tvg-name="CCTV-13" group-title="央视",CCTV-13
+http://gd.wsd.gd.cn:1698/udp/239.21.0.88:3692
+#EXTINF:-1 tvg-name="CCTV-14" group-title="央视",CCTV-14
+http://gd.wsd.gd.cn:1698/udp/239.20.0.202:2202
+#EXTINF:-1 tvg-name="CCTV-15" group-title="央视",CCTV-15
+http://gd.wsd.gd.cn:1698/udp/239.21.0.36:3484
+#EXTINF:-1 tvg-name="CCTV-17" group-title="央视",CCTV-17
+http://gd.wsd.gd.cn:1698/udp/239.20.0.7:3376
+#EXTINF:-1 tvg-name="电影测试4K" group-title="4K超清",电影测试4K
+http://gd.wsd.gd.cn:1698/udp/239.21.0.129:3860
+#EXTINF:-1 tvg-name="南国都市4K" group-title="4K超清",南国都市4K
+http://gd.wsd.gd.cn:1698/udp/239.21.0.132:3872
+#EXTINF:-1 tvg-name="广东综艺4K" group-title="4K超清",广东综艺4K
+http://gd.wsd.gd.cn:1698/udp/239.20.0.59:3164
+#EXTINF:-1 tvg-name="广东综艺4K" group-title="4K超清",广东综艺4K
+http://gd.wsd.gd.cn:1698/udp/239.20.0.60:3160
+#EXTINF:-1 tvg-name="广东综艺4K" group-title="4K超清",广东综艺4K
+http://gd.wsd.gd.cn:1698/udp/239.20.0.61:3156
+#EXTINF:-1 tvg-name="广东综艺4K" group-title="4K超清",广东综艺4K
+http://gd.wsd.gd.cn:1698/udp/239.20.0.62:3152
+#EXTINF:-1 tvg-name="CBN每日影院" group-title="付费频道",CBN每日影院
+http://gd.wsd.gd.cn:1698/udp/239.21.0.125:3844
+#EXTINF:-1 tvg-name="CBN风尚生活" group-title="付费频道",CBN风尚生活
+http://gd.wsd.gd.cn:1698/udp/239.21.0.126:3848
+#EXTINF:-1 tvg-name="CBN幸福剧场" group-title="付费频道",CBN幸福剧场
+http://gd.wsd.gd.cn:1698/udp/239.21.0.127:3852
+#EXTINF:-1 tvg-name="CBN幸福娱乐" group-title="付费频道",CBN幸福娱乐
+http://gd.wsd.gd.cn:1698/udp/239.21.0.128:3856
+#EXTINF:-1 tvg-name="CHC高清电影" group-title="付费频道",CHC高清电影
+http://gd.wsd.gd.cn:1698/udp/239.21.0.119:3820
+#EXTINF:-1 tvg-name="CCTV-4欧洲" group-title="央视",CCTV-4欧洲
+http://gd.wsd.gd.cn:1698/udp/239.21.0.107:3768
+#EXTINF:-1 tvg-name="CCTV-4美洲" group-title="央视",CCTV-4美洲
+http://gd.wsd.gd.cn:1698/udp/239.21.0.108:3772
+#EXTINF:-1 tvg-name="CGTN英语" group-title="其他",CGTN英语
+http://gd.wsd.gd.cn:1698/udp/239.21.0.109:3776
+#EXTINF:-1 tvg-name="CGTN记录" group-title="其他",CGTN记录
+http://gd.wsd.gd.cn:1698/udp/239.21.0.110:3780
+#EXTINF:-1 tvg-name="CGTN西语" group-title="其他",CGTN西语
+http://gd.wsd.gd.cn:1698/udp/239.21.0.111:3800
+#EXTINF:-1 tvg-name="CGTN法语" group-title="其他",CGTN法语
+http://gd.wsd.gd.cn:1698/udp/239.21.0.112:3788
+#EXTINF:-1 tvg-name="CGTN阿语" group-title="其他",CGTN阿语
+http://gd.wsd.gd.cn:1698/udp/239.21.0.113:3792
+#EXTINF:-1 tvg-name="CGTN俄语" group-title="其他",CGTN俄语
+http://gd.wsd.gd.cn:1698/udp/239.21.0.114:3796
+#EXTINF:-1 tvg-name="CCTV-第一剧场" group-title="央视",CCTV-第一剧场
+http://gd.wsd.gd.cn:1698/udp/239.21.0.69:3616
+#EXTINF:-1 tvg-name="CCTV-风云足球" group-title="央视",CCTV-风云足球
+http://gd.wsd.gd.cn:1698/udp/239.21.0.70:3620
+#EXTINF:-1 tvg-name="CCTV-央视台球" group-title="央视",CCTV-央视台球
+http://gd.wsd.gd.cn:1698/udp/239.21.0.71:3624
+#EXTINF:-1 tvg-name="CCTV-央视网球" group-title="央视",CCTV-央视网球
+http://gd.wsd.gd.cn:1698/udp/239.21.0.72:3628
+#EXTINF:-1 tvg-name="CCTV-女性时尚" group-title="央视",CCTV-女性时尚
+http://gd.wsd.gd.cn:1698/udp/239.21.0.73:3632
+#EXTINF:-1 tvg-name="CCTV-世界地理" group-title="央视",CCTV-世界地理
+http://gd.wsd.gd.cn:1698/udp/239.21.0.74:3636
+#EXTINF:-1 tvg-name="CCTV-怀旧剧场" group-title="央视",CCTV-怀旧剧场
+http://gd.wsd.gd.cn:1698/udp/239.21.0.75:3640
+#EXTINF:-1 tvg-name="CCTV-风云剧场" group-title="央视",CCTV-风云剧场
+http://gd.wsd.gd.cn:1698/udp/239.21.0.76:3644
+#EXTINF:-1 tvg-name="CCTV-央视精品" group-title="央视",CCTV-央视精品
+http://gd.wsd.gd.cn:1698/udp/239.21.0.77:3648
+#EXTINF:-1 tvg-name="CCTV-第一剧场" group-title="央视",CCTV-第一剧场
+http://gd.wsd.gd.cn:1698/udp/239.21.0.78:3652
+#EXTINF:-1 tvg-name="CCTV-风云音乐" group-title="央视",CCTV-风云音乐
+http://gd.wsd.gd.cn:1698/udp/239.21.0.79:3656
+#EXTINF:-1 tvg-name="CCTV-兵器科技" group-title="央视",CCTV-兵器科技
+http://gd.wsd.gd.cn:1698/udp/239.21.0.80:3660
+#EXTINF:-1 tvg-name="CCTV-电视指南" group-title="央视",CCTV-电视指南
+http://gd.wsd.gd.cn:1698/udp/239.21.0.81:3664
+#EXTINF:-1 tvg-name="广东体育FHD" group-title="广东本地",广东体育FHD
+http://gd.wsd.gd.cn:1698/udp/239.20.0.97:3012
+#EXTINF:-1 tvg-name="广东科教FHD" group-title="广东本地",广东科教FHD
+http://gd.wsd.gd.cn:1698/udp/239.20.0.98:3008
+#EXTINF:-1 tvg-name="广东卫视FHD" group-title="广东本地",广东卫视FHD
+http://gd.wsd.gd.cn:1698/udp/239.20.0.99:3004
+#EXTINF:-1 tvg-name="广东卫视" group-title="广东本地",广东卫视
+http://gd.wsd.gd.cn:1698/udp/239.20.0.101:2000
+#EXTINF:-1 tvg-name="广东珠江" group-title="广东本地",广东珠江
+http://gd.wsd.gd.cn:1698/udp/239.20.0.64:3144
+#EXTINF:-1 tvg-name="广东珠江FHD" group-title="广东本地",广东珠江FHD
+http://gd.wsd.gd.cn:1698/udp/239.20.0.63:3148
+#EXTINF:-1 tvg-name="大湾区卫视" group-title="其他",大湾区卫视
+http://gd.wsd.gd.cn:1698/udp/239.21.0.84:3676
+#EXTINF:-1 tvg-name="广东影视" group-title="广东本地",广东影视
+http://gd.wsd.gd.cn:1698/udp/239.21.0.85:3680
+#EXTINF:-1 tvg-name="广东公共" group-title="广东本地",广东公共
+http://gd.wsd.gd.cn:1698/udp/239.21.0.86:3684
+#EXTINF:-1 tvg-name="广东少儿" group-title="广东本地",广东少儿
+http://gd.wsd.gd.cn:1698/udp/239.21.0.87:3688
+#EXTINF:-1 tvg-name="嘉佳卡通" group-title="其他",嘉佳卡通
+http://gd.wsd.gd.cn:1698/udp/239.21.0.94:3716
+#EXTINF:-1 tvg-name="广东新闻" group-title="广东本地",广东新闻
+http://gd.wsd.gd.cn:1698/udp/239.21.0.93:3712
+#EXTINF:-1 tvg-name="广东科教" group-title="广东本地",广东科教
+http://gd.wsd.gd.cn:1698/udp/239.20.0.102:2002
+#EXTINF:-1 tvg-name="广东体育" group-title="广东本地",广东体育
+http://gd.wsd.gd.cn:1698/udp/239.20.0.103:2004
+#EXTINF:-1 tvg-name="广东教育" group-title="广东本地",广东教育
+http://gd.wsd.gd.cn:1698/udp/239.21.0.148:3936
+#EXTINF:-1 tvg-name="广东戏曲" group-title="广东本地",广东戏曲
+http://gd.wsd.gd.cn:1698/udp/239.21.0.147:3932
+#EXTINF:-1 tvg-name="惠州综合" group-title="广东本地",惠州综合
+http://gd.wsd.gd.cn:1698/udp/239.21.0.27:3448
+#EXTINF:-1 tvg-name="惠州公共" group-title="广东本地",惠州公共
+http://gd.wsd.gd.cn:1698/udp/239.21.0.28:3452
+#EXTINF:-1 tvg-name="河源综合" group-title="广东本地",河源综合
+http://gd.wsd.gd.cn:1698/udp/239.21.0.48:3532
+#EXTINF:-1 tvg-name="河源公共" group-title="广东本地",河源公共
+http://gd.wsd.gd.cn:1698/udp/239.21.0.49:3536
+#EXTINF:-1 tvg-name="汕尾综合" group-title="广东本地",汕尾综合
+http://gd.wsd.gd.cn:1698/udp/239.21.0.89:3696
+#EXTINF:-1 tvg-name="汕尾生活" group-title="广东本地",汕尾生活
+http://gd.wsd.gd.cn:1698/udp/239.21.0.90:3700
+#EXTINF:-1 tvg-name="揭阳综合" group-title="广东本地",揭阳综合
+http://gd.wsd.gd.cn:1698/udp/239.21.0.91:3704
+#EXTINF:-1 tvg-name="揭阳生活" group-title="广东本地",揭阳生活
+http://gd.wsd.gd.cn:1698/udp/239.21.0.92:3708
+#EXTINF:-1 tvg-name="汕头综合" group-title="广东本地",汕头综合
+http://gd.wsd.gd.cn:1698/udp/239.21.0.101:3744
+#EXTINF:-1 tvg-name="汕头生活" group-title="广东本地",汕头生活
+http://gd.wsd.gd.cn:1698/udp/239.21.0.102:3748
+#EXTINF:-1 tvg-name="汕头文化" group-title="广东本地",汕头文化
+http://gd.wsd.gd.cn:1698/udp/239.21.0.103:3752
+#EXTINF:-1 tvg-name="东莞综合" group-title="广东本地",东莞综合
+http://gd.wsd.gd.cn:1698/udp/239.21.0.137:3892
+#EXTINF:-1 tvg-name="东莞资讯" group-title="广东本地",东莞资讯
+http://gd.wsd.gd.cn:1698/udp/239.21.0.138:3896
+#EXTINF:-1 tvg-name="潮州综合" group-title="广东本地",潮州综合
+http://gd.wsd.gd.cn:1698/udp/239.21.0.145:3924
+#EXTINF:-1 tvg-name="潮州民生" group-title="广东本地",潮州民生
+http://gd.wsd.gd.cn:1698/udp/239.21.0.146:3928
+#EXTINF:-1 tvg-name="梅州综合" group-title="广东本地",梅州综合
+http://gd.wsd.gd.cn:1698/udp/239.21.0.149:3940
+#EXTINF:-1 tvg-name="梅州生活" group-title="广东本地",梅州生活
+http://gd.wsd.gd.cn:1698/udp/239.21.0.150:3944
+#EXTINF:-1 tvg-name="四川卫视FHD" group-title="卫视",四川卫视FHD
+http://gd.wsd.gd.cn:1698/udp/239.20.0.82:3072
+#EXTINF:-1 tvg-name="金鹰纪实FHD" group-title="其他",金鹰纪实FHD
+http://gd.wsd.gd.cn:1698/udp/239.20.0.85:3060
+#EXTINF:-1 tvg-name="辽宁卫视FHD" group-title="卫视",辽宁卫视FHD
+http://gd.wsd.gd.cn:1698/udp/239.20.0.86:3056
+#EXTINF:-1 tvg-name="山东卫视FHD" group-title="卫视",山东卫视FHD
+http://gd.wsd.gd.cn:1698/udp/239.20.0.88:3048
+#EXTINF:-1 tvg-name="天津卫视FHD" group-title="其他",天津卫视FHD
+http://gd.wsd.gd.cn:1698/udp/239.20.0.89:3044
+#EXTINF:-1 tvg-name="湖北卫视FHD" group-title="卫视",湖北卫视FHD
+http://gd.wsd.gd.cn:1698/udp/239.20.0.90:3040
+#EXTINF:-1 tvg-name="黑龙江卫视FHD" group-title="卫视",黑龙江卫视FHD
+http://gd.wsd.gd.cn:1698/udp/239.20.0.91:3036
+#EXTINF:-1 tvg-name="深圳卫视FHD" group-title="广东本地",深圳卫视FHD
+http://gd.wsd.gd.cn:1698/udp/239.20.0.92:3032
+#EXTINF:-1 tvg-name="江苏卫视FHD" group-title="卫视",江苏卫视FHD
+http://gd.wsd.gd.cn:1698/udp/239.20.0.93:3028
+#EXTINF:-1 tvg-name="浙江卫视FHD" group-title="卫视",浙江卫视FHD
+http://gd.wsd.gd.cn:1698/udp/239.20.0.94:3024
+#EXTINF:-1 tvg-name="湖南卫视FHD" group-title="卫视",湖南卫视FHD
+http://gd.wsd.gd.cn:1698/udp/239.20.0.95:3020
+#EXTINF:-1 tvg-name="广西卫视" group-title="卫视",广西卫视
+http://gd.wsd.gd.cn:1698/udp/239.20.0.15:3344
+#EXTINF:-1 tvg-name="吉林卫视" group-title="卫视",吉林卫视
+http://gd.wsd.gd.cn:1698/udp/239.20.0.54:3184
+#EXTINF:-1 tvg-name="江西卫视" group-title="卫视",江西卫视
+http://gd.wsd.gd.cn:1698/udp/239.20.0.55:3180
+#EXTINF:-1 tvg-name="河北卫视" group-title="卫视",河北卫视
+http://gd.wsd.gd.cn:1698/udp/239.20.0.56:3176
+#EXTINF:-1 tvg-name="纪实人文" group-title="其他",纪实人文
+http://gd.wsd.gd.cn:1698/udp/239.20.0.57:3172
+#EXTINF:-1 tvg-name="东南卫视" group-title="其他",东南卫视
+http://gd.wsd.gd.cn:1698/udp/239.20.0.58:3168
+#EXTINF:-1 tvg-name="河南卫视" group-title="卫视",河南卫视
+http://gd.wsd.gd.cn:1698/udp/239.21.0.104:3756
+#EXTINF:-1 tvg-name="湖南卫视" group-title="卫视",湖南卫视
+http://gd.wsd.gd.cn:1698/udp/239.20.0.105:2008
+#EXTINF:-1 tvg-name="北京卫视" group-title="卫视",北京卫视
+http://gd.wsd.gd.cn:1698/udp/239.20.0.121:2040
+#EXTINF:-1 tvg-name="深圳卫视" group-title="广东本地",深圳卫视
+http://gd.wsd.gd.cn:1698/udp/239.20.0.122:2042
+#EXTINF:-1 tvg-name="黑龙江卫视" group-title="卫视",黑龙江卫视
+http://gd.wsd.gd.cn:1698/udp/239.20.0.123:2044
+#EXTINF:-1 tvg-name="湖北卫视" group-title="卫视",湖北卫视
+http://gd.wsd.gd.cn:1698/udp/239.20.0.124:2046
+#EXTINF:-1 tvg-name="浙江卫视" group-title="卫视",浙江卫视
+http://gd.wsd.gd.cn:1698/udp/239.20.0.169:2136
+#EXTINF:-1 tvg-name="江苏卫视" group-title="卫视",江苏卫视
+http://gd.wsd.gd.cn:1698/udp/239.20.0.170:2138
+#EXTINF:-1 tvg-name="天津卫视" group-title="其他",天津卫视
+http://gd.wsd.gd.cn:1698/udp/239.20.0.171:2140
+#EXTINF:-1 tvg-name="山东卫视" group-title="卫视",山东卫视
+http://gd.wsd.gd.cn:1698/udp/239.20.0.172:2142
+#EXTINF:-1 tvg-name="东方卫视" group-title="卫视",东方卫视
+http://gd.wsd.gd.cn:1698/udp/239.20.0.173:2144
+#EXTINF:-1 tvg-name="辽宁卫视" group-title="卫视",辽宁卫视
+http://gd.wsd.gd.cn:1698/udp/239.20.0.175:2148
+#EXTINF:-1 tvg-name="安徽卫视" group-title="卫视",安徽卫视
+http://gd.wsd.gd.cn:1698/udp/239.20.0.193:2184
+#EXTINF:-1 tvg-name="四川卫视" group-title="卫视",四川卫视
+http://gd.wsd.gd.cn:1698/udp/239.20.0.194:2186
+#EXTINF:-1 tvg-name="重庆卫视" group-title="卫视",重庆卫视
+http://gd.wsd.gd.cn:1698/udp/239.20.0.195:2188
+#EXTINF:-1 tvg-name="贵州卫视" group-title="卫视",贵州卫视
+http://gd.wsd.gd.cn:1698/udp/239.20.0.212:2222
+#EXTINF:-1 tvg-name="CETV-1" group-title="其他",CETV-1
+http://gd.wsd.gd.cn:1698/udp/239.20.0.213:2224
+#EXTINF:-1 tvg-name="CETV-4" group-title="其他",CETV-4
+http://gd.wsd.gd.cn:1698/udp/239.21.0.142:3912
+#EXTINF:-1 tvg-name="甘肃卫视" group-title="卫视",甘肃卫视
+http://gd.wsd.gd.cn:1698/udp/239.21.0.141:3908
+#EXTINF:-1 tvg-name="云南卫视" group-title="卫视",云南卫视
+http://gd.wsd.gd.cn:1698/udp/239.21.0.133:3876
+#EXTINF:-1 tvg-name="海南卫视" group-title="卫视",海南卫视
+http://gd.wsd.gd.cn:1698/udp/239.21.0.134:3880
+#EXTINF:-1 tvg-name="三沙卫视" group-title="其他",三沙卫视
+http://gd.wsd.gd.cn:1698/udp/239.21.0.143:3916
+#EXTINF:-1 tvg-name="青海卫视" group-title="其他",青海卫视
+http://gd.wsd.gd.cn:1698/udp/239.21.0.144:3920
+#EXTINF:-1 tvg-name="金鹰纪实" group-title="其他",金鹰纪实
+http://gd.wsd.gd.cn:1698/udp/239.20.0.196:2190
+#EXTINF:-1 tvg-name="求索记录" group-title="付费频道",求索记录
+http://gd.wsd.gd.cn:1698/udp/239.21.0.118:3816
+#EXTINF:-1 tvg-name="金鹰卡通" group-title="其他",金鹰卡通
+http://gd.wsd.gd.cn:1698/udp/239.21.0.115:3804
+#EXTINF:-1 tvg-name="早期教育" group-title="其他",早期教育
+http://gd.wsd.gd.cn:1698/udp/239.21.0.106:3764
+#EXTINF:-1 tvg-name="中国交通" group-title="其他",中国交通
+http://gd.wsd.gd.cn:1698/udp/239.20.0.68:3128
+#EXTINF:-1 tvg-name="快乐垂钓" group-title="其他",快乐垂钓
+http://gd.wsd.gd.cn:1698/udp/239.21.0.121:3828
+#EXTINF:-1 tvg-name="茶频道台" group-title="其他",茶频道台
+http://gd.wsd.gd.cn:1698/udp/239.21.0.120:3824
